@@ -5,6 +5,7 @@ module Pux.Router
   , router
   , navigateTo
   , link
+  , linkHandler
   , lit
   , str
   , num
